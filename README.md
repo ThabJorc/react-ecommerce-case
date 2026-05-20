@@ -1,7 +1,5 @@
 # Loja Virtual - Teste Técnico Front-end
 
-Aplicação de e-commerce desenvolvida como parte de um teste técnico para a vaga de Front-end Developer.
-
 O projeto consiste em uma loja virtual que consome uma API REST simulada com JSON Server, permitindo a listagem de produtos, interação com itens e gerenciamento de um carrinho de compras funcional.
 
 ---
